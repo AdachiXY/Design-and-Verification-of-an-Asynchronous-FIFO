@@ -1,0 +1,3 @@
+Command Line: /home/synopsys/verdi/Verdi_O-2018.09-SP2/platform/LINUXAMD64/bin/Novas -full64 -nologo -ssf read_fast_test.fsdb -sswr fifo_signal.rc
+uname(Linux localhost.localdomain 3.10.0-1062.el7.x86_64 #1 SMP Wed Aug 7 18:08:02 UTC 2019 x86_64)
+au time 7.060124 1.668362 0.251662 delta 282730496 282730496 total 707813376 707813376
